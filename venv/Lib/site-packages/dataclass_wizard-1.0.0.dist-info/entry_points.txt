@@ -1,0 +1,2 @@
+[console_scripts]
+wiz = dataclass_wizard.cli.cli:main
